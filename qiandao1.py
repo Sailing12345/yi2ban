@@ -217,5 +217,5 @@ if __name__ == '__main__':
            else:
                time.sleep(36);
                sys.exit(0)
-
+   time_sleep(5);
 
